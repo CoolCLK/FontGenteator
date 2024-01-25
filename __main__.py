@@ -65,7 +65,7 @@ def save_assets():
     costume = {
         "isStage": False,
         "name": "Typer",
-        "variables": {"Aqb[:,Kf5rsdNv@qw/WQ":["x",-10],"LwB!|[DK@6g+=c#Rr=R9":["y",160]},
+        "variables": {"Aqb[:,Kf5rsdNv@qw/WQ":["x",-10],"LwB!|[DK@6g+=c#Rr=R9":["y",160],"Z#}=veHk-!6=ohT5/l+U":["i",0]},
         "lists": {
         },
         "broadcasts": {
