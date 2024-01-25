@@ -2,17 +2,10 @@
     "targets":[{
         "isStage": true,
         "name": "Stage",
-        "variables":{
-            "Z#}=veHk-!6=ohT5/l+U":[
-                "i",
-                0
-            ]
-        },
+        "variables":{},
         "lists":{
         },
-        "broadcasts":{
-            "_b:9hNy/GS1IUj]X0qP.":"Remove all"
-        },
+        "broadcasts":{},
         "blocks":{
         },
         "comments":{
