@@ -69,6 +69,7 @@ def save_assets():
         "lists": {
         },
         "broadcasts": {
+            "_b:9hNy/GS1IUj]X0qP.":"Remove all"
         },
         "blocks": {
             "B":{
